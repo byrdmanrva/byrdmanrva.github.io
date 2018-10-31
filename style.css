@@ -9,9 +9,11 @@
 
 .about {
     width: 300px;
-    background-color: coral
+    background-color: coral;
+
 }
 
 #about-head {
     font-weight: bold;
+    text-align: center;
 }
